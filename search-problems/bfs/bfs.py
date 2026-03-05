@@ -1,0 +1,58 @@
+"""
+Breadth First Search (BFS) implementation for the Jug Problem.
+
+BFS explores the search space level by level using a queue.
+- Complete: Always finds a solution if one exists
+- Optimal: Finds the shortest path (for uniform cost)
+- Memory: High memory usage due to queue storage
+"""
+
+from collections import deque
+from model.state import State
+
+
+def bfs(problem):
+    """
+    Breadth First Search algorithm.
+    
+    Args:
+        problem: The search problem (JugProblem)
+    
+    Returns:
+        Tuple of (solution_path, nodes_explored) or (None, nodes_explored) if no solution
+    """
+    problem.reset_counter()
+    
+    # Initialize frontier with initial state
+    frontier = deque([problem.initial_state])
+    visited = {problem.initial_state}
+    parent_map = {problem.initial_state: None}
+    
+    while frontier:
+        state = frontier.popleft()
+        problem.nodes_explored += 1
+        
+        # Check if goal state reached
+        if problem.is_goal(state):
+            return reconstruct_path(state, parent_map), problem.nodes_explored
+        
+        # Expand successors
+        for action, successor in problem.get_successors(state):
+            if successor not in visited:
+                visited.add(successor)
+                parent_map[successor] = state
+                frontier.append(successor)
+    
+    return None, problem.nodes_explored
+
+
+def reconstruct_path(state, parent_map):
+    """Reconstruct the path from initial state to goal state."""
+    path = []
+    current = state
+    
+    while current is not None:
+        path.append(current)
+        current = parent_map[current]
+    
+    return list(reversed(path))
