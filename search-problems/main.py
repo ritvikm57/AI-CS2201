@@ -46,7 +46,7 @@ def print_comparison_table(results):
 
 
 def main():
-    """Run all search algorithms and compare results."""
+    """Run and compare BFS, DFS, and IDDFS on the Jug Problem."""
     print("\n" + "="*60)
     print("UNINFORMED SEARCH ALGORITHMS")
     print("Milk and Water Jug Problem")
@@ -57,25 +57,44 @@ def main():
     print("  Initial state: (0, 0)")
     print("  Goal: Measure exactly 2 liters in one jug")
     
+    print("\n" + "="*60)
+    print("SELECT ALGORITHM")
+    print("="*60)
+    print("1. BFS (Breadth First Search)")
+    print("2. DFS (Depth First Search)")
+    print("3. IDDFS (Iterative Deepening DFS)")
+    print("4. Run All Algorithms")
+    print("="*60)
+    
+    choice = input("\nEnter your choice (1-4): ").strip()
+    
     problem = JugProblem()
     results = []
     
-    print("\n\nRunning BFS...")
-    solution_bfs, nodes_bfs = bfs(problem)
-    print_solution("BREADTH FIRST SEARCH (BFS)", solution_bfs, nodes_bfs)
-    results.append(("BFS", solution_bfs, nodes_bfs))
+    if choice == "1" or choice == "4":
+        print("\n\nRunning BFS...")
+        solution_bfs, nodes_bfs = bfs(problem)
+        print_solution("BREADTH FIRST SEARCH (BFS)", solution_bfs, nodes_bfs)
+        results.append(("BFS", solution_bfs, nodes_bfs))
     
-    print("\n\nRunning DFS...")
-    solution_dfs, nodes_dfs = dfs(problem)
-    print_solution("DEPTH FIRST SEARCH (DFS)", solution_dfs, nodes_dfs)
-    results.append(("DFS", solution_dfs, nodes_dfs))
+    if choice == "2" or choice == "4":
+        print("\n\nRunning DFS...")
+        solution_dfs, nodes_dfs = dfs(problem)
+        print_solution("DEPTH FIRST SEARCH (DFS)", solution_dfs, nodes_dfs)
+        results.append(("DFS", solution_dfs, nodes_dfs))
     
-    print("\n\nRunning IDDFS...")
-    solution_iddfs, nodes_iddfs = iddfs(problem)
-    print_solution("ITERATIVE DEEPENING DFS (IDDFS)", solution_iddfs, nodes_iddfs)
-    results.append(("IDDFS", solution_iddfs, nodes_iddfs))
+    if choice == "3" or choice == "4":
+        print("\n\nRunning IDDFS...")
+        solution_iddfs, nodes_iddfs = iddfs(problem)
+        print_solution("ITERATIVE DEEPENING DFS (IDDFS)", solution_iddfs, nodes_iddfs)
+        results.append(("IDDFS", solution_iddfs, nodes_iddfs))
     
-    print_comparison_table(results)
+    if not results:
+        print("Invalid choice. Please enter 1-4.")
+        return
+    
+    if len(results) > 1:
+        print_comparison_table(results)
     
     print("\n" + "="*60)
     print("ANALYSIS")
