@@ -1,5 +1,10 @@
 """Run and compare BFS, DFS, and IDDFS on the Jug Problem."""
 
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+
 from problem.jug import JugProblem
 from bfs.bfs import bfs
 from dfs.dfs import dfs

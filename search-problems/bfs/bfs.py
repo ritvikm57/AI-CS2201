@@ -1,5 +1,10 @@
 """Breadth First Search (BFS) algorithm."""
 
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 from collections import deque
 from model.state import State
 
