@@ -1,9 +1,4 @@
-"""
-Main program to run all uninformed search algorithms on the Milk and Water Jug Problem.
-
-Compares Breadth First Search (BFS), Depth First Search (DFS), and 
-Iterative Deepening Depth First Search (IDDFS).
-"""
+"""Run and compare BFS, DFS, and IDDFS on the Jug Problem."""
 
 from problem.jug import JugProblem
 from bfs.bfs import bfs
@@ -12,7 +7,7 @@ from iddfs.iddfs import iddfs
 
 
 def print_solution(algorithm_name, solution, nodes_explored):
-    """Print the solution in a formatted way."""
+    """Display solution and statistics."""
     print(f"\n{'='*60}")
     print(f"{algorithm_name}")
     print(f"{'='*60}")
@@ -32,7 +27,7 @@ def print_solution(algorithm_name, solution, nodes_explored):
 
 
 def print_comparison_table(results):
-    """Print a comparison table of all algorithms."""
+    """Compare performance of all algorithms."""
     print(f"\n{'='*60}")
     print("ALGORITHM COMPARISON")
     print(f"{'='*60}")
@@ -57,29 +52,24 @@ def main():
     print("  Initial state: (0, 0)")
     print("  Goal: Measure exactly 2 liters in one jug")
     
-    # Create problem instance
     problem = JugProblem()
     results = []
     
-    # Run BFS
     print("\n\nRunning BFS...")
     solution_bfs, nodes_bfs = bfs(problem)
     print_solution("BREADTH FIRST SEARCH (BFS)", solution_bfs, nodes_bfs)
     results.append(("BFS", solution_bfs, nodes_bfs))
     
-    # Run DFS
     print("\n\nRunning DFS...")
     solution_dfs, nodes_dfs = dfs(problem)
     print_solution("DEPTH FIRST SEARCH (DFS)", solution_dfs, nodes_dfs)
     results.append(("DFS", solution_dfs, nodes_dfs))
     
-    # Run IDDFS
     print("\n\nRunning IDDFS...")
     solution_iddfs, nodes_iddfs = iddfs(problem)
     print_solution("ITERATIVE DEEPENING DFS (IDDFS)", solution_iddfs, nodes_iddfs)
     results.append(("IDDFS", solution_iddfs, nodes_iddfs))
     
-    # Print comparison
     print_comparison_table(results)
     
     print("\n" + "="*60)
@@ -87,18 +77,18 @@ def main():
     print("="*60)
     print("""
 BFS:
-  - Explores level by level
+  - Explores level by level using a queue
   - Guarantees shortest path
-  - Requires more memory
+  - Higher memory usage (stores entire frontier)
 
 DFS:
-  - Explores deep paths first
-  - Uses minimal memory
-  - May not find optimal solution
+  - Explores deep paths first using recursion
+  - Uses minimal memory (only current path)
+  - May not find shortest path
 
 IDDFS:
-  - Combines BFS and DFS advantages
-  - Finds optimal depth with low memory
+  - Repeats DFS with increasing depth limits
+  - Finds optimal path with low memory
   - Re-explores nodes multiple times
     """)
 
