@@ -95,26 +95,7 @@ def main():
     
     if len(results) > 1:
         print_comparison_table(results)
-    
-    print("\n" + "="*60)
-    print("ANALYSIS")
-    print("="*60)
-    print("""
-BFS:
-  - Explores level by level using a queue
-  - Guarantees shortest path
-  - Higher memory usage (stores entire frontier)
 
-DFS:
-  - Explores deep paths first using recursion
-  - Uses minimal memory (only current path)
-  - May not find shortest path
-
-IDDFS:
-  - Repeats DFS with increasing depth limits
-  - Finds optimal path with low memory
-  - Re-explores nodes multiple times
-    """)
 
 
 if __name__ == "__main__":
