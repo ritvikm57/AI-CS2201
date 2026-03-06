@@ -1,0 +1,7 @@
+import { NextResponse } from "next/server";
+import { generateCaptcha } from "@/lib/captcha-engine";
+
+export async function GET() {
+  const challenge = generateCaptcha();
+  return NextResponse.json(challenge);
+}
