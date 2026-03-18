@@ -1,0 +1,1592 @@
+[
+  {
+    "from": "Bhubaneswar",
+    "to": "Cuttack",
+    "km": 26
+  },
+  {
+    "from": "Vijayawada",
+    "to": "Guntur",
+    "km": 36
+  },
+  {
+    "from": "Delhi",
+    "to": "Gurugram",
+    "km": 42
+  },
+  {
+    "from": "Faridabad",
+    "to": "Gurugram",
+    "km": 43
+  },
+  {
+    "from": "Chandigarh",
+    "to": "Ambala",
+    "km": 45
+  },
+  {
+    "from": "Delhi",
+    "to": "Faridabad",
+    "km": 49
+  },
+  {
+    "from": "Dehradun",
+    "to": "Haridwar",
+    "km": 55
+  },
+  {
+    "from": "Agra",
+    "to": "Mathura",
+    "km": 57
+  },
+  {
+    "from": "Ludhiana",
+    "to": "Jalandhar",
+    "km": 62
+  },
+  {
+    "from": "Patna",
+    "to": "Muzaffarpur",
+    "km": 72
+  },
+  {
+    "from": "Aligarh",
+    "to": "Mathura",
+    "km": 77
+  },
+  {
+    "from": "Amritsar",
+    "to": "Jalandhar",
+    "km": 82
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "km": 85
+  },
+  {
+    "from": "Agra",
+    "to": "Aligarh",
+    "km": 90
+  },
+  {
+    "from": "Rajkot",
+    "to": "Jamnagar",
+    "km": 91
+  },
+  {
+    "from": "Bareilly",
+    "to": "Moradabad",
+    "km": 94
+  },
+  {
+    "from": "Hubli",
+    "to": "Belagavi",
+    "km": 94
+  },
+  {
+    "from": "Lucknow",
+    "to": "Kanpur",
+    "km": 95
+  },
+  {
+    "from": "Meerut",
+    "to": "Faridabad",
+    "km": 95
+  },
+  {
+    "from": "Guwahati",
+    "to": "Shillong",
+    "km": 98
+  },
+  {
+    "from": "Chandigarh",
+    "to": "Ludhiana",
+    "km": 101
+  },
+  {
+    "from": "Patna",
+    "to": "Gaya",
+    "km": 103
+  },
+  {
+    "from": "Delhi",
+    "to": "Meerut",
+    "km": 104
+  },
+  {
+    "from": "Meerut",
+    "to": "Gurugram",
+    "km": 107
+  },
+  {
+    "from": "Ludhiana",
+    "to": "Ambala",
+    "km": 108
+  },
+  {
+    "from": "Tirupati",
+    "to": "Vellore",
+    "km": 108
+  },
+  {
+    "from": "Chandigarh",
+    "to": "Shimla",
+    "km": 109
+  },
+  {
+    "from": "Kolhapur",
+    "to": "Belagavi",
+    "km": 110
+  },
+  {
+    "from": "Ahmedabad",
+    "to": "Vadodara",
+    "km": 110
+  },
+  {
+    "from": "Belagavi",
+    "to": "Panaji",
+    "km": 112
+  },
+  {
+    "from": "Coimbatore",
+    "to": "Thrissur",
+    "km": 115
+  },
+  {
+    "from": "Aligarh",
+    "to": "Faridabad",
+    "km": 116
+  },
+  {
+    "from": "Raipur",
+    "to": "Bilaspur",
+    "km": 116
+  },
+  {
+    "from": "Mathura",
+    "to": "Faridabad",
+    "km": 119
+  },
+  {
+    "from": "Agra",
+    "to": "Gwalior",
+    "km": 120
+  },
+  {
+    "from": "Varanasi",
+    "to": "Prayagraj",
+    "km": 122
+  },
+  {
+    "from": "Kozhikode",
+    "to": "Thrissur",
+    "km": 122
+  },
+  {
+    "from": "Ranchi",
+    "to": "Jamshedpur",
+    "km": 126
+  },
+  {
+    "from": "Jaipur",
+    "to": "Ajmer",
+    "km": 131
+  },
+  {
+    "from": "Madurai",
+    "to": "Tiruchirappalli",
+    "km": 131
+  },
+  {
+    "from": "Tirupati",
+    "to": "Chennai",
+    "km": 133
+  },
+  {
+    "from": "Meerut",
+    "to": "Moradabad",
+    "km": 135
+  },
+  {
+    "from": "Aligarh",
+    "to": "Moradabad",
+    "km": 136
+  },
+  {
+    "from": "Chennai",
+    "to": "Vellore",
+    "km": 137
+  },
+  {
+    "from": "Meerut",
+    "to": "Haridwar",
+    "km": 139
+  },
+  {
+    "from": "Ambala",
+    "to": "Shimla",
+    "km": 139
+  },
+  {
+    "from": "Salem",
+    "to": "Tiruchirappalli",
+    "km": 140
+  },
+  {
+    "from": "Mathura",
+    "to": "Gurugram",
+    "km": 141
+  },
+  {
+    "from": "Amritsar",
+    "to": "Ludhiana",
+    "km": 141
+  },
+  {
+    "from": "Bengaluru",
+    "to": "Mysuru",
+    "km": 142
+  },
+  {
+    "from": "Aligarh",
+    "to": "Gurugram",
+    "km": 144
+  },
+  {
+    "from": "Jamshedpur",
+    "to": "Dhanbad",
+    "km": 145
+  },
+  {
+    "from": "Meerut",
+    "to": "Aligarh",
+    "km": 147
+  },
+  {
+    "from": "Chandigarh",
+    "to": "Jalandhar",
+    "km": 148
+  },
+  {
+    "from": "Ranchi",
+    "to": "Dhanbad",
+    "km": 150
+  },
+  {
+    "from": "Surat",
+    "to": "Vadodara",
+    "km": 150
+  },
+  {
+    "from": "Hyderabad",
+    "to": "Warangal",
+    "km": 151
+  },
+  {
+    "from": "Hubli",
+    "to": "Davangere",
+    "km": 151
+  },
+  {
+    "from": "Moradabad",
+    "to": "Haridwar",
+    "km": 154
+  },
+  {
+    "from": "Tirunelveli",
+    "to": "Thiruvananthapuram",
+    "km": 154
+  },
+  {
+    "from": "Madurai",
+    "to": "Tirunelveli",
+    "km": 160
+  },
+  {
+    "from": "Mumbai",
+    "to": "Pune",
+    "km": 161
+  },
+  {
+    "from": "Ahmedabad",
+    "to": "Bhavnagar",
+    "km": 164
+  },
+  {
+    "from": "Chandigarh",
+    "to": "Dehradun",
+    "km": 168
+  },
+  {
+    "from": "Coimbatore",
+    "to": "Salem",
+    "km": 168
+  },
+  {
+    "from": "Jalandhar",
+    "to": "Ambala",
+    "km": 170
+  },
+  {
+    "from": "Delhi",
+    "to": "Aligarh",
+    "km": 171
+  },
+  {
+    "from": "Agra",
+    "to": "Faridabad",
+    "km": 173
+  },
+  {
+    "from": "Mathura",
+    "to": "Gwalior",
+    "km": 173
+  },
+  {
+    "from": "Gaya",
+    "to": "Muzaffarpur",
+    "km": 173
+  },
+  {
+    "from": "Rajkot",
+    "to": "Bhavnagar",
+    "km": 174
+  },
+  {
+    "from": "Meerut",
+    "to": "Dehradun",
+    "km": 176
+  },
+  {
+    "from": "Ambala",
+    "to": "Dehradun",
+    "km": 179
+  },
+  {
+    "from": "Ambala",
+    "to": "Haridwar",
+    "km": 179
+  },
+  {
+    "from": "Hubli",
+    "to": "Panaji",
+    "km": 179
+  },
+  {
+    "from": "Nashik",
+    "to": "Aurangabad",
+    "km": 180
+  },
+  {
+    "from": "Delhi",
+    "to": "Mathura",
+    "km": 184
+  },
+  {
+    "from": "Bengaluru",
+    "to": "Salem",
+    "km": 185
+  },
+  {
+    "from": "Mumbai",
+    "to": "Nashik",
+    "km": 186
+  },
+  {
+    "from": "Moradabad",
+    "to": "Faridabad",
+    "km": 187
+  },
+  {
+    "from": "Coimbatore",
+    "to": "Kozhikode",
+    "km": 190
+  },
+  {
+    "from": "Coimbatore",
+    "to": "Kochi",
+    "km": 191
+  },
+  {
+    "from": "Delhi",
+    "to": "Moradabad",
+    "km": 192
+  },
+  {
+    "from": "Bhopal",
+    "to": "Indore",
+    "km": 192
+  },
+  {
+    "from": "Ranchi",
+    "to": "Rourkela",
+    "km": 194
+  },
+  {
+    "from": "Agra",
+    "to": "Gurugram",
+    "km": 195
+  },
+  {
+    "from": "Bareilly",
+    "to": "Aligarh",
+    "km": 199
+  },
+  {
+    "from": "Kochi",
+    "to": "Kozhikode",
+    "km": 199
+  },
+  {
+    "from": "Kolhapur",
+    "to": "Hubli",
+    "km": 200
+  },
+  {
+    "from": "Lucknow",
+    "to": "Prayagraj",
+    "km": 202
+  },
+  {
+    "from": "Kota",
+    "to": "Ajmer",
+    "km": 202
+  },
+  {
+    "from": "Mysuru",
+    "to": "Coimbatore",
+    "km": 202
+  },
+  {
+    "from": "Moradabad",
+    "to": "Dehradun",
+    "km": 203
+  },
+  {
+    "from": "Jamshedpur",
+    "to": "Rourkela",
+    "km": 203
+  },
+  {
+    "from": "Jodhpur",
+    "to": "Ajmer",
+    "km": 205
+  },
+  {
+    "from": "Kolhapur",
+    "to": "Panaji",
+    "km": 205
+  },
+  {
+    "from": "Kanpur",
+    "to": "Prayagraj",
+    "km": 208
+  },
+  {
+    "from": "Kochi",
+    "to": "Thiruvananthapuram",
+    "km": 210
+  },
+  {
+    "from": "Coimbatore",
+    "to": "Madurai",
+    "km": 211
+  },
+  {
+    "from": "Bengaluru",
+    "to": "Vellore",
+    "km": 212
+  },
+  {
+    "from": "Mysuru",
+    "to": "Kozhikode",
+    "km": 212
+  },
+  {
+    "from": "Amritsar",
+    "to": "Jammu",
+    "km": 215
+  },
+  {
+    "from": "Pune",
+    "to": "Nashik",
+    "km": 215
+  },
+  {
+    "from": "Vadodara",
+    "to": "Bhavnagar",
+    "km": 215
+  },
+  {
+    "from": "Coimbatore",
+    "to": "Tiruchirappalli",
+    "km": 216
+  },
+  {
+    "from": "Bareilly",
+    "to": "Mathura",
+    "km": 218
+  },
+  {
+    "from": "Ludhiana",
+    "to": "Shimla",
+    "km": 219
+  },
+  {
+    "from": "Gaya",
+    "to": "Dhanbad",
+    "km": 219
+  },
+  {
+    "from": "Ahmedabad",
+    "to": "Rajkot",
+    "km": 221
+  },
+  {
+    "from": "Jalandhar",
+    "to": "Jammu",
+    "km": 222
+  },
+  {
+    "from": "Delhi",
+    "to": "Haridwar",
+    "km": 222
+  },
+  {
+    "from": "Chandigarh",
+    "to": "Haridwar",
+    "km": 222
+  },
+  {
+    "from": "Agra",
+    "to": "Bareilly",
+    "km": 223
+  },
+  {
+    "from": "Shimla",
+    "to": "Dehradun",
+    "km": 223
+  },
+  {
+    "from": "Gaya",
+    "to": "Ranchi",
+    "km": 226
+  },
+  {
+    "from": "Chandigarh",
+    "to": "Amritsar",
+    "km": 228
+  },
+  {
+    "from": "Salem",
+    "to": "Vellore",
+    "km": 228
+  },
+  {
+    "from": "Mathura",
+    "to": "Jaipur",
+    "km": 229
+  },
+  {
+    "from": "Pune",
+    "to": "Kolhapur",
+    "km": 230
+  },
+  {
+    "from": "Jodhpur",
+    "to": "Bikaner",
+    "km": 233
+  },
+  {
+    "from": "Pune",
+    "to": "Aurangabad",
+    "km": 233
+  },
+  {
+    "from": "Meerut",
+    "to": "Bareilly",
+    "km": 234
+  },
+  {
+    "from": "Nashik",
+    "to": "Surat",
+    "km": 237
+  },
+  {
+    "from": "Solapur",
+    "to": "Kolhapur",
+    "km": 238
+  },
+  {
+    "from": "Mysuru",
+    "to": "Salem",
+    "km": 238
+  },
+  {
+    "from": "Madurai",
+    "to": "Salem",
+    "km": 238
+  },
+  {
+    "from": "Jalandhar",
+    "to": "Shimla",
+    "km": 241
+  },
+  {
+    "from": "Belagavi",
+    "to": "Davangere",
+    "km": 244
+  },
+  {
+    "from": "Agra",
+    "to": "Jaipur",
+    "km": 245
+  },
+  {
+    "from": "Jammu",
+    "to": "Srinagar",
+    "km": 247
+  },
+  {
+    "from": "Pune",
+    "to": "Solapur",
+    "km": 249
+  },
+  {
+    "from": "Mangalore",
+    "to": "Kozhikode",
+    "km": 249
+  },
+  {
+    "from": "Tirupati",
+    "to": "Bengaluru",
+    "km": 250
+  },
+  {
+    "from": "Amritsar",
+    "to": "Ambala",
+    "km": 251
+  },
+  {
+    "from": "Aligarh",
+    "to": "Gwalior",
+    "km": 252
+  },
+  {
+    "from": "Ahmedabad",
+    "to": "Surat",
+    "km": 253
+  },
+  {
+    "from": "Mysuru",
+    "to": "Mangalore",
+    "km": 253
+  },
+  {
+    "from": "Bareilly",
+    "to": "Haridwar",
+    "km": 255
+  },
+  {
+    "from": "Lucknow",
+    "to": "Bareilly",
+    "km": 256
+  },
+  {
+    "from": "Udaipur",
+    "to": "Ahmedabad",
+    "km": 259
+  },
+  {
+    "from": "Vijayawada",
+    "to": "Warangal",
+    "km": 259
+  },
+  {
+    "from": "Bengaluru",
+    "to": "Davangere",
+    "km": 263
+  },
+  {
+    "from": "Jodhpur",
+    "to": "Udaipur",
+    "km": 264
+  },
+  {
+    "from": "Ajmer",
+    "to": "Bikaner",
+    "km": 264
+  },
+  {
+    "from": "Varanasi",
+    "to": "Gaya",
+    "km": 265
+  },
+  {
+    "from": "Udaipur",
+    "to": "Ajmer",
+    "km": 265
+  },
+  {
+    "from": "Bhavnagar",
+    "to": "Jamnagar",
+    "km": 265
+  },
+  {
+    "from": "Madurai",
+    "to": "Kochi",
+    "km": 265
+  },
+  {
+    "from": "Kanpur",
+    "to": "Gwalior",
+    "km": 266
+  },
+  {
+    "from": "Kanpur",
+    "to": "Bareilly",
+    "km": 268
+  },
+  {
+    "from": "Varanasi",
+    "to": "Patna",
+    "km": 269
+  },
+  {
+    "from": "Jaipur",
+    "to": "Gurugram",
+    "km": 270
+  },
+  {
+    "from": "Madurai",
+    "to": "Thrissur",
+    "km": 270
+  },
+  {
+    "from": "Jaipur",
+    "to": "Faridabad",
+    "km": 271
+  },
+  {
+    "from": "Warangal",
+    "to": "Guntur",
+    "km": 271
+  },
+  {
+    "from": "Dhanbad",
+    "to": "Kolkata",
+    "km": 272
+  },
+  {
+    "from": "Tiruchirappalli",
+    "to": "Vellore",
+    "km": 272
+  },
+  {
+    "from": "Jaipur",
+    "to": "Kota",
+    "km": 273
+  },
+  {
+    "from": "Tirunelveli",
+    "to": "Kochi",
+    "km": 275
+  },
+  {
+    "from": "Salem",
+    "to": "Thrissur",
+    "km": 276
+  },
+  {
+    "from": "Hyderabad",
+    "to": "Vijayawada",
+    "km": 277
+  },
+  {
+    "from": "Thiruvananthapuram",
+    "to": "Thrissur",
+    "km": 279
+  },
+  {
+    "from": "Jabalpur",
+    "to": "Nagpur",
+    "km": 280
+  },
+  {
+    "from": "Ludhiana",
+    "to": "Jammu",
+    "km": 281
+  },
+  {
+    "from": "Mangalore",
+    "to": "Davangere",
+    "km": 281
+  },
+  {
+    "from": "Udaipur",
+    "to": "Kota",
+    "km": 283
+  },
+  {
+    "from": "Jamshedpur",
+    "to": "Kolkata",
+    "km": 283
+  },
+  {
+    "from": "Raipur",
+    "to": "Nagpur",
+    "km": 284
+  },
+  {
+    "from": "Vadodara",
+    "to": "Rajkot",
+    "km": 285
+  },
+  {
+    "from": "Faridabad",
+    "to": "Gwalior",
+    "km": 291
+  },
+  {
+    "from": "Mysuru",
+    "to": "Davangere",
+    "km": 292
+  },
+  {
+    "from": "Tiruchirappalli",
+    "to": "Tirunelveli",
+    "km": 293
+  },
+  {
+    "from": "Cuttack",
+    "to": "Rourkela",
+    "km": 294
+  },
+  {
+    "from": "Solapur",
+    "to": "Hubli",
+    "km": 298
+  },
+  {
+    "from": "Agra",
+    "to": "Kanpur",
+    "km": 300
+  },
+  {
+    "from": "Mumbai",
+    "to": "Surat",
+    "km": 301
+  },
+  {
+    "from": "Hyderabad",
+    "to": "Guntur",
+    "km": 302
+  },
+  {
+    "from": "Kanpur",
+    "to": "Aligarh",
+    "km": 304
+  },
+  {
+    "from": "Solapur",
+    "to": "Belagavi",
+    "km": 305
+  },
+  {
+    "from": "Aurangabad",
+    "to": "Solapur",
+    "km": 308
+  },
+  {
+    "from": "Bhubaneswar",
+    "to": "Rourkela",
+    "km": 311
+  },
+  {
+    "from": "Solapur",
+    "to": "Hyderabad",
+    "km": 311
+  },
+  {
+    "from": "Ahmedabad",
+    "to": "Jamnagar",
+    "km": 311
+  },
+  {
+    "from": "Lucknow",
+    "to": "Varanasi",
+    "km": 312
+  },
+  {
+    "from": "Shimla",
+    "to": "Haridwar",
+    "km": 313
+  },
+  {
+    "from": "Bhopal",
+    "to": "Jabalpur",
+    "km": 313
+  },
+  {
+    "from": "Jabalpur",
+    "to": "Bilaspur",
+    "km": 313
+  },
+  {
+    "from": "Gurugram",
+    "to": "Gwalior",
+    "km": 314
+  },
+  {
+    "from": "Madurai",
+    "to": "Thiruvananthapuram",
+    "km": 314
+  },
+  {
+    "from": "Tiruchirappalli",
+    "to": "Thrissur",
+    "km": 315
+  },
+  {
+    "from": "Kota",
+    "to": "Indore",
+    "km": 318
+  },
+  {
+    "from": "Mysuru",
+    "to": "Thrissur",
+    "km": 318
+  },
+  {
+    "from": "Patna",
+    "to": "Dhanbad",
+    "km": 321
+  },
+  {
+    "from": "Amritsar",
+    "to": "Shimla",
+    "km": 322
+  },
+  {
+    "from": "Bengaluru",
+    "to": "Tiruchirappalli",
+    "km": 326
+  },
+  {
+    "from": "Patna",
+    "to": "Ranchi",
+    "km": 328
+  },
+  {
+    "from": "Davangere",
+    "to": "Panaji",
+    "km": 329
+  },
+  {
+    "from": "Kanpur",
+    "to": "Varanasi",
+    "km": 332
+  },
+  {
+    "from": "Chennai",
+    "to": "Tiruchirappalli",
+    "km": 332
+  },
+  {
+    "from": "Indore",
+    "to": "Vadodara",
+    "km": 333
+  },
+  {
+    "from": "Jaipur",
+    "to": "Jodhpur",
+    "km": 334
+  },
+  {
+    "from": "Tirupati",
+    "to": "Salem",
+    "km": 334
+  },
+  {
+    "from": "Agra",
+    "to": "Lucknow",
+    "km": 335
+  },
+  {
+    "from": "Jaipur",
+    "to": "Bikaner",
+    "km": 335
+  },
+  {
+    "from": "Kota",
+    "to": "Gwalior",
+    "km": 336
+  },
+  {
+    "from": "Pune",
+    "to": "Belagavi",
+    "km": 337
+  },
+  {
+    "from": "Rourkela",
+    "to": "Bilaspur",
+    "km": 339
+  },
+  {
+    "from": "Lucknow",
+    "to": "Gwalior",
+    "km": 340
+  },
+  {
+    "from": "Varanasi",
+    "to": "Muzaffarpur",
+    "km": 340
+  },
+  {
+    "from": "Mumbai",
+    "to": "Aurangabad",
+    "km": 341
+  },
+  {
+    "from": "Gaya",
+    "to": "Jamshedpur",
+    "km": 343
+  },
+  {
+    "from": "Chennai",
+    "to": "Salem",
+    "km": 344
+  },
+  {
+    "from": "Bengaluru",
+    "to": "Mangalore",
+    "km": 345
+  },
+  {
+    "from": "Mysuru",
+    "to": "Vellore",
+    "km": 345
+  },
+  {
+    "from": "Kota",
+    "to": "Bhopal",
+    "km": 346
+  },
+  {
+    "from": "Bengaluru",
+    "to": "Chennai",
+    "km": 348
+  },
+  {
+    "from": "Jabalpur",
+    "to": "Raipur",
+    "km": 349
+  },
+  {
+    "from": "Salem",
+    "to": "Kozhikode",
+    "km": 350
+  },
+  {
+    "from": "Bhopal",
+    "to": "Nagpur",
+    "km": 352
+  },
+  {
+    "from": "Kolhapur",
+    "to": "Davangere",
+    "km": 352
+  },
+  {
+    "from": "Surat",
+    "to": "Bhavnagar",
+    "km": 352
+  },
+  {
+    "from": "Dhanbad",
+    "to": "Rourkela",
+    "km": 353
+  },
+  {
+    "from": "Coimbatore",
+    "to": "Tirunelveli",
+    "km": 356
+  },
+  {
+    "from": "Hubli",
+    "to": "Mangalore",
+    "km": 357
+  },
+  {
+    "from": "Prayagraj",
+    "to": "Gaya",
+    "km": 358
+  },
+  {
+    "from": "Udaipur",
+    "to": "Vadodara",
+    "km": 358
+  },
+  {
+    "from": "Visakhapatnam",
+    "to": "Vijayawada",
+    "km": 360
+  },
+  {
+    "from": "Mangalore",
+    "to": "Thrissur",
+    "km": 361
+  },
+  {
+    "from": "Mangalore",
+    "to": "Panaji",
+    "km": 363
+  },
+  {
+    "from": "Prayagraj",
+    "to": "Jabalpur",
+    "km": 365
+  },
+  {
+    "from": "Jodhpur",
+    "to": "Kota",
+    "km": 368
+  },
+  {
+    "from": "Chandigarh",
+    "to": "Jammu",
+    "km": 368
+  },
+  {
+    "from": "Jamshedpur",
+    "to": "Cuttack",
+    "km": 369
+  },
+  {
+    "from": "Nashik",
+    "to": "Vadodara",
+    "km": 372
+  },
+  {
+    "from": "Vadodara",
+    "to": "Jamnagar",
+    "km": 374
+  },
+  {
+    "from": "Tirupati",
+    "to": "Tiruchirappalli",
+    "km": 378
+  },
+  {
+    "from": "Tirupati",
+    "to": "Guntur",
+    "km": 379
+  },
+  {
+    "from": "Salem",
+    "to": "Tirunelveli",
+    "km": 379
+  },
+  {
+    "from": "Prayagraj",
+    "to": "Patna",
+    "km": 380
+  },
+  {
+    "from": "Mathura",
+    "to": "Ajmer",
+    "km": 380
+  },
+  {
+    "from": "Muzaffarpur",
+    "to": "Siliguri",
+    "km": 382
+  },
+  {
+    "from": "Mumbai",
+    "to": "Kolhapur",
+    "km": 382
+  },
+  {
+    "from": "Indore",
+    "to": "Ahmedabad",
+    "km": 383
+  },
+  {
+    "from": "Aurangabad",
+    "to": "Surat",
+    "km": 386
+  },
+  {
+    "from": "Coimbatore",
+    "to": "Thiruvananthapuram",
+    "km": 386
+  },
+  {
+    "from": "Ambala",
+    "to": "Jammu",
+    "km": 390
+  },
+  {
+    "from": "Dhanbad",
+    "to": "Muzaffarpur",
+    "km": 391
+  },
+  {
+    "from": "Jamshedpur",
+    "to": "Bhubaneswar",
+    "km": 391
+  },
+  {
+    "from": "Udaipur",
+    "to": "Indore",
+    "km": 395
+  },
+  {
+    "from": "Bilaspur",
+    "to": "Nagpur",
+    "km": 396
+  },
+  {
+    "from": "Ranchi",
+    "to": "Muzaffarpur",
+    "km": 398
+  },
+  {
+    "from": "Thiruvananthapuram",
+    "to": "Kozhikode",
+    "km": 401
+  },
+  {
+    "from": "Ranchi",
+    "to": "Kolkata",
+    "km": 402
+  },
+  {
+    "from": "Visakhapatnam",
+    "to": "Guntur",
+    "km": 404
+  },
+  {
+    "from": "Indore",
+    "to": "Aurangabad",
+    "km": 414
+  },
+  {
+    "from": "Amritsar",
+    "to": "Srinagar",
+    "km": 415
+  },
+  {
+    "from": "Vijayawada",
+    "to": "Tirupati",
+    "km": 417
+  },
+  {
+    "from": "Guntur",
+    "to": "Chennai",
+    "km": 417
+  },
+  {
+    "from": "Solapur",
+    "to": "Panaji",
+    "km": 417
+  },
+  {
+    "from": "Mumbai",
+    "to": "Vadodara",
+    "km": 419
+  },
+  {
+    "from": "Indore",
+    "to": "Nashik",
+    "km": 419
+  },
+  {
+    "from": "Kolkata",
+    "to": "Cuttack",
+    "km": 420
+  },
+  {
+    "from": "Surat",
+    "to": "Rajkot",
+    "km": 422
+  },
+  {
+    "from": "Bikaner",
+    "to": "Gurugram",
+    "km": 423
+  },
+  {
+    "from": "Jalandhar",
+    "to": "Srinagar",
+    "km": 423
+  },
+  {
+    "from": "Bhubaneswar",
+    "to": "Visakhapatnam",
+    "km": 425
+  },
+  {
+    "from": "Udaipur",
+    "to": "Bhavnagar",
+    "km": 425
+  },
+  {
+    "from": "Delhi",
+    "to": "Bikaner",
+    "km": 426
+  },
+  {
+    "from": "Bhopal",
+    "to": "Gwalior",
+    "km": 428
+  },
+  {
+    "from": "Siliguri",
+    "to": "Guwahati",
+    "km": 441
+  },
+  {
+    "from": "Kolkata",
+    "to": "Bhubaneswar",
+    "km": 442
+  },
+  {
+    "from": "Jodhpur",
+    "to": "Ahmedabad",
+    "km": 444
+  },
+  {
+    "from": "Shillong",
+    "to": "Agartala",
+    "km": 444
+  },
+  {
+    "from": "Indore",
+    "to": "Nagpur",
+    "km": 446
+  },
+  {
+    "from": "Ranchi",
+    "to": "Bilaspur",
+    "km": 448
+  },
+  {
+    "from": "Nagpur",
+    "to": "Aurangabad",
+    "km": 448
+  },
+  {
+    "from": "Cuttack",
+    "to": "Visakhapatnam",
+    "km": 450
+  },
+  {
+    "from": "Rourkela",
+    "to": "Raipur",
+    "km": 450
+  },
+  {
+    "from": "Bikaner",
+    "to": "Ludhiana",
+    "km": 452
+  },
+  {
+    "from": "Varanasi",
+    "to": "Jabalpur",
+    "km": 455
+  },
+  {
+    "from": "Vijayawada",
+    "to": "Chennai",
+    "km": 455
+  },
+  {
+    "from": "Solapur",
+    "to": "Warangal",
+    "km": 455
+  },
+  {
+    "from": "Nagpur",
+    "to": "Warangal",
+    "km": 456
+  },
+  {
+    "from": "Kolkata",
+    "to": "Rourkela",
+    "km": 458
+  },
+  {
+    "from": "Patna",
+    "to": "Siliguri",
+    "km": 469
+  },
+  {
+    "from": "Guwahati",
+    "to": "Imphal",
+    "km": 478
+  },
+  {
+    "from": "Ludhiana",
+    "to": "Srinagar",
+    "km": 481
+  },
+  {
+    "from": "Dhanbad",
+    "to": "Cuttack",
+    "km": 481
+  },
+  {
+    "from": "Dhanbad",
+    "to": "Siliguri",
+    "km": 482
+  },
+  {
+    "from": "Udaipur",
+    "to": "Rajkot",
+    "km": 483
+  },
+  {
+    "from": "Nagpur",
+    "to": "Hyderabad",
+    "km": 498
+  },
+  {
+    "from": "Dhanbad",
+    "to": "Bhubaneswar",
+    "km": 503
+  },
+  {
+    "from": "Surat",
+    "to": "Jamnagar",
+    "km": 511
+  },
+  {
+    "from": "Prayagraj",
+    "to": "Bilaspur",
+    "km": 512
+  },
+  {
+    "from": "Hyderabad",
+    "to": "Hubli",
+    "km": 515
+  },
+  {
+    "from": "Visakhapatnam",
+    "to": "Warangal",
+    "km": 526
+  },
+  {
+    "from": "Bhopal",
+    "to": "Vadodara",
+    "km": 527
+  },
+  {
+    "from": "Guwahati",
+    "to": "Agartala",
+    "km": 533
+  },
+  {
+    "from": "Agartala",
+    "to": "Imphal",
+    "km": 536
+  },
+  {
+    "from": "Siliguri",
+    "to": "Shillong",
+    "km": 539
+  },
+  {
+    "from": "Shillong",
+    "to": "Imphal",
+    "km": 541
+  },
+  {
+    "from": "Cuttack",
+    "to": "Raipur",
+    "km": 543
+  },
+  {
+    "from": "Gaya",
+    "to": "Siliguri",
+    "km": 559
+  },
+  {
+    "from": "Bhubaneswar",
+    "to": "Raipur",
+    "km": 560
+  },
+  {
+    "from": "Chandigarh",
+    "to": "Srinagar",
+    "km": 568
+  },
+  {
+    "from": "Udaipur",
+    "to": "Jamnagar",
+    "km": 573
+  },
+  {
+    "from": "Raipur",
+    "to": "Visakhapatnam",
+    "km": 575
+  },
+  {
+    "from": "Ambala",
+    "to": "Srinagar",
+    "km": 590
+  },
+  {
+    "from": "Muzaffarpur",
+    "to": "Guwahati",
+    "km": 801
+  },
+  {
+    "from": "Patna",
+    "to": "Guwahati",
+    "km": 889
+  },
+  {
+    "from": "Muzaffarpur",
+    "to": "Shillong",
+    "km": 899
+  },
+  {
+    "from": "Siliguri",
+    "to": "Imphal",
+    "km": 919
+  },
+  {
+    "from": "Siliguri",
+    "to": "Agartala",
+    "km": 974
+  },
+  {
+    "from": "Patna",
+    "to": "Shillong",
+    "km": 987
+  },
+  {
+    "from": "Muzaffarpur",
+    "to": "Imphal",
+    "km": 1280
+  },
+  {
+    "from": "Muzaffarpur",
+    "to": "Agartala",
+    "km": 1335
+  },
+  {
+    "from": "Patna",
+    "to": "Imphal",
+    "km": 1367
+  },
+  {
+    "from": "Patna",
+    "to": "Agartala",
+    "km": 1422
+  }
+]
